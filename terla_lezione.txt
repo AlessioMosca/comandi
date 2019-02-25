@@ -5,4 +5,24 @@ pero se non vogliamo comminare alcuni file
 
 posso usare un file .gitignore dove elenco tutti i file (prim.txt oppure *.txt dove ignorerà tutti i file txt)
 
-rami
+rami di lavoro 
+
+git branch nome_del_ramo per creare un ramo, utile perche le modifiche che faccio in questo ramo non sono visibili dal esterno 
+
+git checkout nome_del_ramo_di_arrivo per spostarsi 
+
+per spostare le modifiche fatte da un ramo nel master 
+
+git merge ramo_nel_quale_prendere_modifiche e le importa nel ramo di lavoro nel quale sei
+
+git commit -am "commit" eviti di fare git add .
+
+<<===
+ramo corrente 
+====
+altro ramo di merge
+
+
+scegli quale modifica 
+git add .
+git commit 
