@@ -2,3 +2,14 @@ la seconda lezione:
 file non tracciato significa che e un file nuovo, altrimenti sarebbe stato modificato 
 git add . : aggiunge tutti i file nello stage 
 
+git remote add origin https://github.com/AlessioMosca/comandi.git : collego la cartella a GitHub 
+
+git commit -m " commento "
+
+git push origin master carico i dati sul server 
+
+git pull origin master aggiorno le cartelle con il lavoro del server 
+
+
+
+
