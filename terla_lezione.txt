@@ -1,1 +1,8 @@
 inizio terza lezione
+se ho piu fail da spostare nello stage git add .
+
+pero se non vogliamo comminare alcuni file 
+
+posso usare un file .gitignore dove elenco tutti i file (prim.txt oppure *.txt dove ignorerà tutti i file txt)
+
+rami
