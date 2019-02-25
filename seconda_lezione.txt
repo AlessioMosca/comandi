@@ -1,0 +1,4 @@
+la seconda lezione:
+file non tracciato significa che e un file nuovo, altrimenti sarebbe stato modificato 
+git add . : aggiunge tutti i file nello stage 
+
