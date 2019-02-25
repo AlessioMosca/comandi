@@ -1,0 +1,2 @@
+git init: crea una reporsitory nel percoso della cartella, devi essere li.
+
