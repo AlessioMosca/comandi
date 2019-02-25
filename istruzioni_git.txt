@@ -1,2 +1,18 @@
 git init: crea una reporsitory nel percoso della cartella, devi essere li.
 
+git add: sposto il file dalla sala prove (working directory ) al palco (staging)
+
+git status: vedo lo stato attuale della mia cartella 
+
+git commit: registro 
+
+git log: vedo tutti i commenti
+
+nome del file rosso significa WORKING DIRECTOERY
+
+nome del file verde significa STAGE
+
+
+
+
+
